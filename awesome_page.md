@@ -8,4 +8,6 @@ If it's more than one line, though
 ```
 
 [Google](http://www.google.com)
-![Panthon Roof])(pantheon.jpg)
+![Panthon Roof](pantheon.jpg)
+
+...
