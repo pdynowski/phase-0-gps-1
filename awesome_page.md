@@ -1,5 +1,5 @@
 **This should be in bold**
-*This should should be in italics
+*This should should be in italics*
 
 ```
 This stuff should be in a code block
